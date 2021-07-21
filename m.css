@@ -9,14 +9,14 @@
 .top-nav {
     padding-left: 30px;
     margin-left: 20px;;
-    width:900px;
+    width:880px;
     height: 150px;
     background-color: green;
 }
 .side-nav {
     margin: 20px;
     height: 300px;
-    width: 200px;
+    width: 180px;
     background-color: blue;
 }
 .main {
